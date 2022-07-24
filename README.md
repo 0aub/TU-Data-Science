@@ -10,11 +10,11 @@ Data Mining:
 <li> lab4:     Numpy arrays
 <li> lab5:     EDA - working on dataset - data visualization
 <li> lab6:     PCA
-<li> lab7:     K-Means Clustering Algorithm
+<li> lab7:     K-Means clustering algorithm
 <li> lab8:     Exercise: calculate the confidence
-<li> lab9:     Bernoulli Banive Bayes - Gaussian Naive Bayes
-<li> lab10:    Linear Regression - Logistic regression
-<li> project:  Complete clustering analysis on "Facebook Live Sellers in Thailand Data Set"
+<li> lab9:     Bernoulli banive bayes - gaussian naive bayes
+<li> lab10:    Linear regression - logistic regression
+<li> project:  Complete clustering analysis on "facebook live sellers in thailand dataset"
 </pre>
 
 Information Retrival:
