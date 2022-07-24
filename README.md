@@ -22,7 +22,7 @@ Information Retrival:
 <li> lab1:     Exercises: tokenization - frequency count 
 <li> lab2:     tokenization methods - Dealing with stop words
 <li> lab3:     Regular expressions
-<li> lab4:     stemming
+<li> lab4:     Stemming
 <li> lab5:     Similarity measures
 <li> lab6:     Unigram inverted index
 <li> lab7:     Positional index
